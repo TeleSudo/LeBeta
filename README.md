@@ -43,5 +43,5 @@ screen ./autoapi.sh
 # اجرای اتولانچ CLI
 
 cd LeBeta
-screen ./autoapi.sh
+screen ./autocli.sh
 ```
