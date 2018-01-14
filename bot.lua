@@ -2184,7 +2184,8 @@ sticker قفل استیکر
 نمایش لیست کاربران لال
 /id
 نمایش ایدی
- end
+ ]] 
+     end
  lua.sendText(msg.chat_id_,msg.id_,0,1,nil,helping,1,'md')
  end
  if LError:match("^[!/#][Ii][Dd]$") and mygp then
