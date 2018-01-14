@@ -83,6 +83,6 @@ RED='\033[0;31m'
 NC='\033[0m'
 CYAN='\033[0;36m'
 echo -e "@LuaError Team"
-echo -e "${CYAN}Installation Completed! Create a bot with ./launch.sh command or send ./autocli.sh for AutoRun. Note: Set --Token-- in ./api.sh${NC}"
+echo -e "${CYAN}Installation Completed! Create a bot with ./cli.sh command or send ./autocli.sh for AutoRun. Note: Set --Token-- in ./api.sh${NC}"
 echo -e "@LuaError Team"
 exit
