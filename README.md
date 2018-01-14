@@ -5,11 +5,6 @@ LuaError AntiSpamBot Base on TD-CLI
 🔰
 ```sh
 🔰
-# نصب پیش نیازها
-# Need To install on Your Server
-🔰
-sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev lua-socket lua-sec lua-expat libevent-dev make unzip git redis-server autoconf g++ libjansson-dev libpython-dev expat libexpat1-dev
-🔰
 # کلون کردن سورس بر روی سرور و نصب
 # Clone Source on Server and install
 🔰
