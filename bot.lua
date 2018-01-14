@@ -21,6 +21,7 @@ you_not_owner = 'For Owner!'
 have_acces = 'User is Owner/Moderator/Sudo\nFirst,Demote user!'
 sudo = 282958812 -- SUDO Orginal
 
+
 function sleep(time)
 local clock = os.clock
 local t0 = clock()
